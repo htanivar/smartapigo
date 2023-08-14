@@ -27,6 +27,7 @@ const (
 	URIGetHoldings      string = "rest/secure/angelbroking/portfolio/v1/getHolding"
 	URIGetPositions     string = "rest/secure/angelbroking/order/v1/getPosition"
 	URIGetTradeBook     string = "rest/secure/angelbroking/order/v1/getTradeBook"
+	URICandleData       string = "restrest/secure/angelbroking/historical/v1/getCandleData"
 	URILTP              string = "rest/secure/angelbroking/order/v1/getLtpData"
 	URIRMS              string = "rest/secure/angelbroking/user/v1/getRMS"
 	URIConvertPosition  string = "rest/secure/angelbroking/order/v1/convertPosition"
